@@ -1,16 +1,14 @@
 # 👋 Hi, I'm Maram
 
-🎓 PCS Graduate  
 💻 Interested in UX/UI, AI & Software Development
 
 ---
 
-## 🔖 Education
+## 🎓 Education
 
 **Diploma Degree in Programming and Computer Science**
 
 Umm Alqura University  
-Graduated: 2025
 
 ---
 
