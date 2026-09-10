@@ -5,7 +5,7 @@
 
 ---
 
-## 📝 Education
+## 🔖 Education
 
 **Diploma Degree in Programming and Computer Science**
 
